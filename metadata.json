@@ -1,0 +1,6 @@
+{
+  "name": "ReliefAI Blueprint",
+  "description": "Enterprise Architecture Blueprint for ReliefAI – AI Disaster Relief & Community Support Agent",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
